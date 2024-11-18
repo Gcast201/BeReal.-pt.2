@@ -29,8 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/4cf3e6b9f84d482eaf45fe04c3ad6e8b?sid=70b05af9-f362-4599-8473-53413a0b205a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/52ff17830b7f4f8797fb2eb3812d07e4?sid=77a75eb5-c39d-43b9-98fa-452bca174a7e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 ## Notes
 
 I was able to get the camera up but i didnt let me take the physical photo. I think its because im using the simulator and not the app.
